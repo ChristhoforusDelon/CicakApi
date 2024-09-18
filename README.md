@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DelDelon known as Delon
+- 👋 Hi, I’m Christhoforus Delon Yudistira known as Delon
 - 👀 I’m interested in Computer and programming things
 - 🌱 I’m currently learning Web developing
 - 💞️ I’m looking to collaborate on software engineer organization
