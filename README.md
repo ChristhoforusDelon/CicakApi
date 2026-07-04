@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer and programming things
 - 🌱 I’m currently learning Web developing
 - 💞️ I’m looking to collaborate on software engineer organization
-- 📫 You can contact me through email christhoforus.yudistira@binus.ac.id
+- 📫 You can contact me through email delon.christhoforus@gmail.com
 
 <!---
 CicakApi/CicakApi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
